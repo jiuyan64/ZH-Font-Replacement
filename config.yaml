@@ -32,12 +32,12 @@ SARASA_VERSION_STYLE: hinted
 # 生成的微软雅黑数字显示风格：
 # - monospaced：  等宽数字
 # - proportional：不等宽数字
-MS_YAHEI_NUMERALS_STYLE: proportional 
+MS_YAHEI_NUMERALS_STYLE: monospaced 
 
 # 生成的 Segoe UI 字符间距风格：
 # - loose：   宽松(正常)间距
 # - compact： 紧凑间距
-SEGOE_UI_SPACING_STYLE: compact
+SEGOE_UI_SPACING_STYLE: loose
 
 
 # =================================================================
